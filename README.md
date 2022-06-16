@@ -1,1 +1,1 @@
-# Cat-logo
+Programa en JavaSwing con JavaMaven, el cuál, genera 20 objetos con 6 campos de información estáticos incluidos una imagen, además un campo modificable y un enlace, el proyecto consta de una interfaz pública, una clase abstracta, un constructor y una variable estática. La información de los 20 objetos se actualiza con un botón de "siguiente" y "anterior", además, el campo modificable guarda la información obtenida. El constructor extiende la información de los objetos y la clase pública implementa la interfaz del catálogo
